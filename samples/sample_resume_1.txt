@@ -1,0 +1,24 @@
+John Doe
+john.doe@example.com  +1 (555) 123-4567
+San Francisco, CA · linkedin.com/in/johndoe
+
+SUMMARY
+Senior backend engineer with 6 years of experience building Python services
+on AWS. Strong in FastAPI, Django, PostgreSQL, Docker, Kubernetes, and CI/CD.
+
+EXPERIENCE
+Acme Corp - Senior Backend Engineer (Jan 2020 - Present)
+- Designed and built microservices in Python and Go on Kubernetes (EKS).
+- Owned the payments API: FastAPI + PostgreSQL + Redis, 99.95% uptime.
+- Set up CI/CD with GitHub Actions and observability with Prometheus/Grafana.
+
+Globex - Backend Engineer (Jun 2017 - Dec 2019)
+- Shipped REST APIs in Django and PostgreSQL serving 5M monthly users.
+- Authored a recommendation pipeline using scikit-learn and pandas.
+
+SKILLS
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, AWS,
+GitHub Actions, Terraform, Pandas, NumPy, scikit-learn, REST, GraphQL.
+
+EDUCATION
+B.Tech in Computer Science, IIT Bombay, 2017

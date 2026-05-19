@@ -1,0 +1,19 @@
+Machine Learning Engineer (NLP)
+
+We are looking for an ML engineer with 3+ years of experience shipping NLP
+systems to production.
+
+Required:
+- Python, scikit-learn
+- PyTorch or TensorFlow
+- spaCy or NLTK
+- Transformers / BERT
+- Pandas, NumPy
+- AWS, Docker
+
+Nice to have:
+- MLflow, SageMaker
+- Vector databases (FAISS, Pinecone)
+- LLM / RAG experience
+
+Education: Master's degree preferred (or equivalent experience).

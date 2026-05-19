@@ -1,0 +1,219 @@
+python
+java
+c
+c++
+c#
+javascript
+typescript
+go
+golang
+rust
+ruby
+php
+kotlin
+swift
+scala
+r
+matlab
+sql
+nosql
+bash
+shell
+powershell
+html
+css
+sass
+less
+react
+react.js
+next.js
+vue
+vue.js
+angular
+svelte
+redux
+zustand
+node.js
+express
+nestjs
+fastapi
+flask
+django
+spring
+spring boot
+hibernate
+laravel
+rails
+graphql
+rest
+grpc
+soap
+microservices
+docker
+kubernetes
+helm
+terraform
+ansible
+jenkins
+github actions
+gitlab ci
+circleci
+travis
+aws
+amazon web services
+ec2
+s3
+lambda
+dynamodb
+rds
+cloudwatch
+sqs
+sns
+ecs
+eks
+azure
+gcp
+google cloud
+firebase
+heroku
+vercel
+netlify
+mysql
+postgresql
+postgres
+sqlite
+mongodb
+redis
+elasticsearch
+cassandra
+oracle
+mssql
+snowflake
+bigquery
+kafka
+rabbitmq
+spark
+hadoop
+hive
+airflow
+dbt
+tableau
+power bi
+looker
+git
+github
+gitlab
+bitbucket
+linux
+unix
+windows server
+agile
+scrum
+kanban
+jira
+confluence
+machine learning
+deep learning
+nlp
+natural language processing
+computer vision
+reinforcement learning
+data science
+data analysis
+data engineering
+statistics
+probability
+linear algebra
+calculus
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+sklearn
+xgboost
+lightgbm
+catboost
+tensorflow
+keras
+pytorch
+huggingface
+transformers
+spacy
+nltk
+gensim
+opencv
+yolo
+bert
+gpt
+llm
+langchain
+llamaindex
+rag
+vector database
+pinecone
+weaviate
+faiss
+chroma
+qdrant
+milvus
+mlflow
+kubeflow
+sagemaker
+vertex ai
+ci/cd
+tdd
+bdd
+oop
+design patterns
+solid
+system design
+distributed systems
+data structures
+algorithms
+api design
+unit testing
+integration testing
+pytest
+junit
+jest
+mocha
+cypress
+playwright
+selenium
+postman
+swagger
+openapi
+oauth
+jwt
+sso
+saml
+ssl
+tls
+encryption
+cybersecurity
+penetration testing
+owasp
+prometheus
+grafana
+elk
+splunk
+datadog
+new relic
+sentry
+figma
+adobe xd
+photoshop
+illustrator
+ux
+ui
+responsive design
+tailwind
+bootstrap
+material ui
+shadcn
+chakra ui
+accessibility
+seo

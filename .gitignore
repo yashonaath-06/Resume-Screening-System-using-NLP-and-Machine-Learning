@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+build/
+.pnpm-store/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+backend/uploads/
+backend/storage/
+backend/*.db
+backend/*.sqlite3
+backend/.cache/
+.coverage

@@ -1,0 +1,41 @@
+phd
+ph.d
+doctorate
+doctor of philosophy
+post doc
+postdoctoral
+masters
+master's
+master of science
+master of technology
+master of business administration
+mba
+ms
+m.s
+m.tech
+m.e
+m.sc
+mca
+bachelor
+bachelors
+bachelor of science
+bachelor of technology
+bachelor of engineering
+bachelor of business administration
+bba
+b.tech
+b.e
+b.sc
+bca
+b.com
+diploma
+associate degree
+high school
+secondary school
+gcse
+a level
+intermediate
+hsc
+ssc
+12th
+10th

@@ -1,0 +1,23 @@
+Aman Verma
+aman.verma@example.com  +1 (415) 555-9090
+
+SUMMARY
+Data scientist / ML engineer with 4 years of experience in NLP, recommender
+systems, and MLOps. Comfortable shipping models to production on AWS.
+
+EXPERIENCE
+Hooli - Machine Learning Engineer (Mar 2021 - Present)
+- Built NLP pipelines using spaCy, NLTK, and Hugging Face Transformers.
+- Trained classification models with scikit-learn, XGBoost, PyTorch.
+- Deployed models with MLflow and SageMaker; monitored with Prometheus.
+
+Pied Piper - Data Scientist Intern (Jun 2020 - Feb 2021)
+- Worked on TF-IDF and BERT-based document similarity.
+
+SKILLS
+Python, scikit-learn, PyTorch, TensorFlow, spaCy, NLTK, Hugging Face,
+Transformers, BERT, MLflow, SageMaker, Pandas, NumPy, SQL, AWS, Docker.
+
+EDUCATION
+M.S. in Computer Science (NLP), 2020
+B.Tech in Information Technology, 2018

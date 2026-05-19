@@ -1,0 +1,22 @@
+Priya Sharma
+priya.sharma@example.com  +91 98765 43210
+Bangalore, India
+
+SUMMARY
+Frontend engineer with 3 years of experience in React, Next.js, TypeScript,
+and Tailwind. Built dashboards and design systems for fintech and SaaS.
+
+EXPERIENCE
+Initech - Frontend Engineer (Aug 2022 - Present)
+- Built a dashboard in Next.js + TypeScript + Tailwind + shadcn UI.
+- Integrated REST APIs, Recharts visualizations, and dark/light theming.
+
+ZenSoft - Junior Frontend Engineer (Jul 2021 - Jul 2022)
+- Migrated legacy Angular app to React with Redux.
+
+SKILLS
+React, Next.js, TypeScript, JavaScript, Tailwind, shadcn, Redux, Zustand,
+HTML, CSS, Recharts, Jest, Cypress, Figma, REST.
+
+EDUCATION
+B.Sc. in Computer Science, Bangalore University, 2021

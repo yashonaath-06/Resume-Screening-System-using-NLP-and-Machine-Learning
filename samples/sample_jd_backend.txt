@@ -1,0 +1,18 @@
+Senior Backend Engineer
+
+We are hiring a Senior Backend Engineer with 5+ years of experience building
+high-throughput services on AWS.
+
+Required skills:
+- Python, FastAPI or Django
+- PostgreSQL, Redis
+- Docker, Kubernetes
+- CI/CD (GitHub Actions, GitLab CI, or Jenkins)
+- REST API design
+
+Nice to have:
+- Terraform / IaC
+- Observability: Prometheus, Grafana
+- Microservices experience
+
+Education: Bachelor's degree in Computer Science or equivalent.
